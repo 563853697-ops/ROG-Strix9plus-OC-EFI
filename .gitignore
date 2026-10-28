@@ -1,0 +1,10 @@
+.DS_Store
+._*
+.Trashes
+.Spotlight-V100
+.fseventsd
+.workbuddy/
+
+config.plist.original
+config.plist.bak
+oldConfig.plist
